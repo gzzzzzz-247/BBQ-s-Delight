@@ -1,6 +1,6 @@
 # BBQ's Delight
 <br>
-<img src="https://github.com/gzzzzzz-247/BBQ-s-Delight/blob/main/logo.png" width="50%">
+<img src="https://github.com/gzzzzzz-247/BBQ-s-Delight/blob/main/logo.png" width="100%">
 
 ### Overview
 
